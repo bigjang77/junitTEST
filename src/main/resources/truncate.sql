@@ -1,0 +1,10 @@
+truncate table company;
+truncate table intro;
+truncate table employee;
+truncate table subscribe;
+truncate table resume;
+truncate table notice;
+truncate table job;
+truncate table application;
+truncate table emp_check;
+truncate table co_check;
